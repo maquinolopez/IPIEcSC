@@ -25,9 +25,8 @@ Brindar una introducción intuitiva y práctica a los conceptos fundamentales de
 - Primeros pasos en Python con `numpy`, `matplotlib`, y `seaborn`.
 
 📁 Carpeta: `dia_1/`  
-- `presentacion_dia1.pdf`: Diapositivas del día.  
-- `codigo_simulacion.py`: Simulación de moneda, dado y dado cargado.  
-- `ejercicios.py`: Actividades guiadas para reforzar conceptos.
+- `IPIEcSC_EdV-CIMAT_1.pdf`: Presentación del día 1.  
+- `Codigo_lec_1.py`: Código guía para simulaciones.
 
 ---
 
@@ -39,9 +38,8 @@ Brindar una introducción intuitiva y práctica a los conceptos fundamentales de
 - Distribuciones Beta como priors y posteriors para proporciones.
 
 📁 Carpeta: `dia_2/`  
-- `presentacion_dia2.pdf`: Diapositivas con teoremas, ejemplos y visualizaciones.  
-- `intervalos.py`: Comparación de intervalos de confianza y credibilidad.  
-- `beta_posterior_visual.py`: Código para visualizar priors, likelihoods y posteriors.
+- `IPIEcSC_EdV-CIMAT_2.pdf`: Presentación del día 2.  
+- `Codigo_lec_2.py`: Código para estimación e intervalos.
 
 ---
 
@@ -53,9 +51,8 @@ Brindar una introducción intuitiva y práctica a los conceptos fundamentales de
 - Discusión final sobre toma de decisiones con estadística.
 
 📁 Carpeta: `dia_3/`  
-- `presentacion_dia3.pdf`: Diapositivas de comparación de modelos.  
-- `modelo_lineal_vs_cuadratico.py`: Comparación mediante simulación.  
-- `mini_proyecto_template.ipynb`: Guía para el proyecto final.
+- `IPIEcSC_EdV-CIMAT_3.pdf`: Presentación del día 3.  
+- `Codigo_lec_3.py`: Código para comparación de modelos.
 
 ---
 
@@ -90,17 +87,14 @@ Cada grupo elaborará una pequeña presentación donde simulará un experimento 
 .
 ├── README.md
 ├── dia_1/
-│   ├── presentacion_dia1.pdf
-│   ├── codigo_simulacion.py
-│   └── ejercicios.py
+│   ├── IPIEcSC_EdV-CIMAT_1.pdf
+│   └── Codigo_lec_1.py
 ├── dia_2/
-│   ├── presentacion_dia2.pdf
-│   ├── intervalos.py
-│   └── beta_posterior_visual.py
+│   ├── IPIEcSC_EdV-CIMAT_2.pdf
+│   └── Codigo_lec_2.py
 ├── dia_3/
-│   ├── presentacion_dia3.pdf
-│   ├── modelo_lineal_vs_cuadratico.py
-│   └── mini_proyecto_template.ipynb
+│   ├── IPIEcSC_EdV-CIMAT_3.pdf
+│   └── Codigo_lec_3.py
 ```
 
 ---
